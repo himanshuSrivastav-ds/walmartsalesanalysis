@@ -67,7 +67,6 @@ WHERE
 	    OR	
 		rating IS NULL;
 
----------------------------------------------------------- Exploring the Data----------------------------------------------------------------------------------------------------------------------------------------------
 
 -- Total Sales
 SELECT COUNT(*) AS total_sales FROM walmart;
@@ -173,7 +172,7 @@ FROM walmart;
 
 SELECT * FROM rating_summary
 
-------------------------------------------------- Internship Questions--------------------------------------------------------------------
+-- ANSWER OF INTERSHIP QUESTIONS:-
 
 -- 1.  Retrieve all columns for sales made in a specific branch (e.g., Branch 'A').
 
